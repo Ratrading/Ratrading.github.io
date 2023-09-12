@@ -1,0 +1,5 @@
+#607eb3 Main(Name, Header)
+#b7a26b Primary(Buttons)
+#b86f83 Danger(Buttons)
+#a1a6aa Secondary(Text, Tables)
+#5c5a5d Dark(Text)
